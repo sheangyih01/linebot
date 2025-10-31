@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/callback.py": {
+      "runtime": "python3.10"
+    }
+  }
+}
